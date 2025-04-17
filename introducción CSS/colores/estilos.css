@@ -1,0 +1,35 @@
+h1,
+p {
+  color: papayawhip;
+  font-size: 50px;
+  background-color: black;
+}
+
+p {
+  color: #7e00e5;
+  background-color: aquamarine;
+}
+
+h3 {
+  color: rgb(255, 41, 71);
+}
+
+h4 {
+  color: rgba(255, 99, 71, 0.3);
+}
+
+#encabezado-seis {
+  color: plum;
+}
+
+#encabezado-uno {
+  color: blueviolet;
+}
+
+.text-danger {
+  color: royalblue;
+}
+
+.bg-blue {
+  background-color: rosybrown;
+}
