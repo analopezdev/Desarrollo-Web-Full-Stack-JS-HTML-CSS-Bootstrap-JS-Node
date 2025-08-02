@@ -40,3 +40,15 @@
 .p-linea {
   padding: 50px 30px 20px 100px;
 }
+
+.mt-100 {
+  margin-top: 100px;
+}
+
+.m-50 {
+margin: 50px;
+}
+
+.mx-100 {
+  margin: 0 100px;
+}
